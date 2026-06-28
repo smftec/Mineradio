@@ -1,8 +1,8 @@
-# Mineradio Project Rules
+# 52MUSIC Project Rules
 
 ## Project Identity
 
-Mineradio 是 Windows Electron 桌面音乐播放器，核心体验包括搜索、播放、歌单、歌词、3D 歌单架、粒子视觉预设、DIY 视觉控制台和 GitHub 自动更新。
+52MUSIC 是 Windows Electron 桌面音乐播放器，前身项目名为 Mineradio。核心体验包括搜索、播放、歌单、歌词、3D 歌单架、粒子视觉预设、DIY 视觉控制台和 GitHub 自动更新。
 
 - 当前可运行程序：`E:\桌面\播放器软件\Mineradio\Mineradio.exe`
 - 当前运行版主目录：`E:\桌面\播放器软件\Mineradio`

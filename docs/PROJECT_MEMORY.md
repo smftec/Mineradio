@@ -1,4 +1,11 @@
-# Mineradio Project Memory
+# 52MUSIC Project Memory
+
+### 2026-06-28 - 应用品牌更名为 52MUSIC
+
+- 用户要求：整个应用都改名叫 `52MUSIC`。
+- 涉及文件：`package.json`、`package-lock.json`、`desktop/main.js`、`server.js`、`build/after-pack.js`、`build/installer.nsh`、`public/index.html`、`public/desktop-lyrics.html`、`public/wallpaper.html`、`README.md`、`SECURITY.md`、`docs/SUPPORT.md`、`CHANGELOG.md`。
+- 关键实现：产品名、窗口标题、安装包名、可执行文件名、快捷方式名、安装器默认目录和公开 UI 文案统一为 `52MUSIC`；旧内部 IPC/localStorage/env key 暂保留兼容，首次启动会把旧 `Mineradio` 用户数据目录迁移到 `52MUSIC`。
+- 禁止回退：不要把用户可见品牌、安装包、快捷方式或默认安装目录改回 `Mineradio`；历史文档和真实仓库路径仍可保留旧名作为历史/路径信息。
 
 ### 2026-06-25 - P0 Installer In-Place Repair Rule
 

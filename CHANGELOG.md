@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.1.2
+
+- Rename the desktop app, installer, executable, shortcuts, update display name, and public UI copy from Mineradio to 52MUSIC.
+- Default installation path and installer safety checks now use a dedicated `52MUSIC` folder.
+- First 52MUSIC launch migrates existing local user data from the old Mineradio user-data directory when the new directory does not exist.
+
 ## v1.1.1
 
 - P0 installer safety fix: installation now defaults to the first available non-C drive from `D:\Mineradio` through `Z:\Mineradio`; it falls back to `C:\Mineradio` only when no D-Z drive exists.
