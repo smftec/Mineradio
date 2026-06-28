@@ -11,7 +11,7 @@
 | 下载入口 | 推荐人群 | 链接 |
 | --- | --- | --- |
 | 蓝奏云满速下载 | 国内用户优先 | [下载 52MUSIC 1.1.2 安装包](https://xxhuber.lanzout.com/s/Mineradio) |
-| GitHub Release 备用 | 能稳定访问 GitHub 的用户 | [v1.1.2 Release](https://github.com/XxHuberrr/Mineradio/releases/tag/v1.1.2) |
+| GitHub Release 备用 | 能稳定访问 GitHub 的用户 | [Releases 页面](https://github.com/XxHuberrr/Mineradio/releases) |
 
 安装时只需要下载并运行 `52MUSIC-1.1.2-Setup.exe`。不要下载 `Source code`、`.blockmap`、`latest.yml`，也不要把 `win-unpacked` 当成正式安装包。
 
